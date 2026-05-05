@@ -1,6 +1,6 @@
 // GHOST COMMIT - Full Green Contribution Graph (2024-2026)
-// AUTHOR : PegasusMetaSec
-// GITHUB : https://github.com/PegasusMetaSec/Commit-Pegasus
+// AUTHOR : sahamzona52-hub
+// GITHUB : https://github.com/sahamzona52-hub/commit
 
 import { writeFileSync } from "fs";
 import { spawnSync } from "child_process";
@@ -15,10 +15,10 @@ const Config = {
     RetryAttempts: 3,
     PushAfterAll: true,
     Verbose: false,
-    RepoURL: "https://github.com/PegasusMetaSec/Commit-Pegasus",
+    RepoURL: "https://github.com/sahamzona52-hub/commit",
     Branch: "main",
-    Author: "PegasusMetaSec",
-    Email: "xxxxxx",
+    Author: "sahamzona52-hub",
+    Email: "sahamzona52@gmail.com",
     Years: [2024, 2025, 2026]      // Target tahun
 };
 
